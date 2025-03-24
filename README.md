@@ -1,2 +1,2 @@
 # This is Web Dev
-# Feature-A is completed now.
+Feature-A is completed now.
